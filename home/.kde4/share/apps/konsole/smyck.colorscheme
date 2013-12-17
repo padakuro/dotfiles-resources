@@ -5,7 +5,7 @@ MaxRandomSaturation=0
 MaxRandomValue=0
 
 [BackgroundIntense]
-Color=18,18,18
+Color=17,19,22
 
 [Color0]
 Color=27,29,30
